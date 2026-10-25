@@ -1,0 +1,12 @@
+Euclidian distances between 20 clients and the depot for a of Semi-Urban area;;Depot;Client 1;Client 2;Client 3;Client 4;Client 5;Client 6;Client 7;Client 8;Client 9
+;;Leoforos Marathonos 50, Pikermi 19009;Leoforos Marathonos 94, Nea Makri 19005;Kanari 2, Nea Makri 19005;Alkionidos 6 Nea Makri 19005;Kefallinias 33, Nea Makri 19005;Artemidos 42-44, Nea Makri 19005;Iroon 4, Nea Makri 19005;Eparxiaki Odos Ekalis-Neas Makris 4, Nea Makri 19005;Leoforos Marathonos 134, Nea Makri 19005;Olympou 9-13, Nea Makri 19005
+Depot;Leoforos Marathonos 50, Pikermi 19009;0;3,765;3,233;3,505;10,776;9,782;11,32;9,63;9,664;9,147
+Client 1;Leoforos Marathonos 94, Nea Makri 19005;3,765;0;4,895;2,629;7,822;8,385;10,271;8,639;9,091;9,216
+Client 2;Kanari 2, Nea Makri 19005;3,233;4,895;0;2,658;9,396;7,204;8,466;6,834;6,672;9,977
+Client 3;Alkionidos 6 Nea Makri 19005;3,505;2,629;2,658;0;7,352;6,468;8,183;6,495;6,764;6,691
+Client 4;Kefallinias 33, Nea Makri 19005;10,776;7,822;9,396;7,352;0;4,684;6,251;5,709;6,79;8,163
+Client 5;Artemidos 42-44, Nea Makri 19005;9,782;8,385;7,204;6,468;4,684;0;2;1,044;8,129;3,626
+Client 6;Iroon 4, Nea Makri 19005;11,32;10,271;8,466;8,183;6,251;2;0;1,694;1,942;3,399
+Client 7;Eparxiaki Odos Ekalis-Neas Makris 4, Nea Makri 19005;9,63;8,639;6,834;6,495;5,709;1,044;1,694;0;1,086;2,601
+Client 8;Leoforos Marathonos 134, Nea Makri 19005;9,664;9,091;6,672;6,764;6,79;8,129;1,942;1,086;0;1,593
+Client 9;Olympou 9-13, Nea Makri 19005;9,147;9,216;9,977;6,691;8,163;3,626;3,399;2,601;1,593;0
